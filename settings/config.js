@@ -1,7 +1,7 @@
 module.exports = {
   TOKEN:
     process.env.TOKEN ||
-    "MTAyOTgwNjIzODkyNzY5NTk2Mg.GFylX2.mgCFgt7Jq7w9e-ZFJIs0xmAK4sCBSQYh3YNb6A",
+    "MTAyOTgwNjIzODkyNzY5NTk2Mg.Gqtv02.lQlVtx8EimEU_KBy8AAAaoavZY28nOXjHlVYAA",
   PREFIX: process.env.PREFIX || ">",
   embed: {
     color: process.env.color || "#220f80",
